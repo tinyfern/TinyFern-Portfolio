@@ -15,6 +15,10 @@ li{
     text-align: center;
 }
 
+hr{
+    border-radius: 5px;
+}
+
 @font-face { font-family: Nunito; 
 src: url(./assets/fonts/Nunito-Regular.ttf);}
 
@@ -25,5 +29,4 @@ body{
     justify-content: center;
     align-content: center;
     align-items: center;
-
 }
