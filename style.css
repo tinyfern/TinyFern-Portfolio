@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+li{
+    list-style-position: inside;
+    text-align: center;
+}
+
+@font-face { font-family: Nunito; 
+src: url(./assets/fonts/Nunito-Regular.ttf);}
+
+body{
+    background-color: #121212;
+    color: #8f67a4;
+    font-family: Nunito;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+
+}
