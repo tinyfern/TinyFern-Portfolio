@@ -25,8 +25,8 @@ header {
 }
 
 img {
-  max-width: 80%;
-  max-height: 80%;
+  width: 80%px;
+  height: 80%px;;
 }
 
 .page-header {
